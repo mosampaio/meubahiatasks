@@ -6,5 +6,10 @@
             <goals>
                 <goal>gae:run</goal>
             </goals>
+			<actionName>CUSTOM-gae:deploy</actionName>
+            <displayName>gae:deploy</displayName>
+            <goals>
+                <goal>gae:deploy</goal>
+            </goals>
         </action>
     </actions>
