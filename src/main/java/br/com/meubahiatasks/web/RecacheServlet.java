@@ -1,6 +1,5 @@
 package br.com.meubahiatasks.web;
 
-import com.google.appengine.api.urlfetch.URLFetchService;
 import com.google.appengine.api.urlfetch.URLFetchServiceFactory;
 import java.io.IOException;
 import java.net.URL;
