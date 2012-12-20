@@ -23,8 +23,8 @@ public class RecacheServlet extends HttpServlet {
             HttpServletResponse response) throws ServletException, IOException {
             
             makeHttpRequest("http://meubahia.herokuapp.com/recache/tweets/");
-            makeHttpRequest("http://meubahia.herokuapp.com/recache/news/");
-            makeHttpRequest("http://meubahia.herokuapp.com/recache/blogs/");
+            //makeHttpRequest("http://meubahia.herokuapp.com/recache/news/");
+            //makeHttpRequest("http://meubahia.herokuapp.com/recache/blogs/");
             
     }
     
